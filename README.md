@@ -33,4 +33,4 @@ java -jar flappy-bird.jar
 Not sure if anyone would want to contribute otherwise feel free to create issues, pull requests and so on. You can also email me at igabaydulin@gmail.com
 
 ## Future
-It definetly needs refactoring, but it is possible new tools will be needed. I will do it if I have free time ヽ(•‿•)ノ
+It definetly needs refactoring, but maybe it also shoud be rewritten using different libs. I will do it if I have free time ヽ(•‿•)ノ
