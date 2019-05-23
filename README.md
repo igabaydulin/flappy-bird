@@ -2,7 +2,7 @@
 This project was carried out as a laboratory work during my student days. It is a full copy of the famous mobile game "Flappy Bird". The project was written in a short time (1-2 days, I do not remember exactly) and does contain a lot of stupid code. But in the end it works! 😊
 
 <p align="center">
-  <img src="https://github.com/igabaydulin/flappy-bird/blob/master/resources/main-screenshot.png">
+  <img src="https://github.com/igabaydulin/flappy-bird/blob/master/resources/main-screenshot.png" height="250">
 </p>
 
 ## JAR build
