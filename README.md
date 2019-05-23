@@ -5,12 +5,13 @@ This project was carried out as a laboratory work during my student days. It is 
   <img src="https://github.com/igabaydulin/flappy-bird/blob/master/resources/main-screenshot.png" height="250">
 </p>
 
-## JAR build
+## JAR Build
+### Script
 ```
 ./build.sh
 ```
 
-`build.sh` source:
+### Source
 ```bash
 #!/bin/bash
 
@@ -22,10 +23,13 @@ cd build
 jar -cmvf resources/META-INF/MANIFEST.MF flappy-bird.jar *
 ```
 
-`./build/flappy-bird.jar` is a generated jar file
+### Output
+`./build/flappy-bird.jar`
 
-If you're unable to build jar manually you can download it on releases [page](https://github.com/igabaydulin/flappy-bird/releases)
-## JAR file execution
+### Donwload Link
+If you're unable to build jar manually you can download it on [releases page](https://github.com/igabaydulin/flappy-bird/releases)
+
+## JAR File Execution
 ```
 java -jar flappy-bird.jar
 ```
