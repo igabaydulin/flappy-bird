@@ -1,0 +1,4 @@
+# Little workaround to create files in classpath
+# Example:
+# new File(new File(getClass().getClassLoader().getResource("root").getFile()).getParentFile(), "result").mkdir()
+# Instead META-INF can be used, but META-INF can be moved to another folder in the future

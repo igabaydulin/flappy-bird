@@ -1,0 +1,2 @@
+Main-Class: com.github.igabaydulin.flappybird.gui.MainFrame
+Class-Path: resources/

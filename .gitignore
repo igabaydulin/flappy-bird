@@ -1,0 +1,10 @@
+#IntelliJ
+.idea/
+out/
+*.iml
+
+#JAR build
+build/
+
+#Files generated in runtime
+result/
