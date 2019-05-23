@@ -24,6 +24,7 @@ jar -cmvf resources/META-INF/MANIFEST.MF flappy-bird.jar *
 
 `./build/flappy-bird.jar` is a generated jar file
 
+If you're unable to build jar manually you can download it on releases [page](https://github.com/igabaydulin/flappy-bird/releases)
 ## JAR file execution
 ```
 java -jar flappy-bird.jar
